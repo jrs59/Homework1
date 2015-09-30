@@ -5,4 +5,6 @@
     <string name="action_settings">Settings</string>
     <string name="hello_jon">Hello Jon Schalk!</string>
     <string name="action_search">SEARCH</string>
-</resources>
+    <string name="large">This is a LARGE Device!</string>
+    <string name="small">This is a SMALL device!</string>
+    </resources>
